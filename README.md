@@ -4,5 +4,6 @@ I know less about Javascript than I'd like. I'm fixing that. The projects here w
 
 ___
 
-*[Drum Kit](http://alanalyn.ch/js30/project-1-drum-kit)
-*[CSS/JS Clock](http://alanalyn.ch/js30/project-2-css-js-clock)
+[Drum Kit](http://alanalyn.ch/js30/project-1-drum-kit)
+
+[CSS/JS Clock](http://alanalyn.ch/js30/project-2-css-js-clock)
